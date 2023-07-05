@@ -1,0 +1,23 @@
+nav {
+    background-color: #333;
+    color:greenyellow;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    margin: 0 10px;
+  }
+  a {
+    color: chartreuse;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
