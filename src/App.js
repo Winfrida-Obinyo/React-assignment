@@ -1,7 +1,7 @@
 import React from 'react';
 import Login from './Login/index';
 import Products from './Products/index';
-import ProductDisplay from './ProductDisplay/index';
+import ProductDisplay from './ProductDetails/index';
 import Forms from './Forms/index';
 import Navbar from './Navbar/index';
 import './App.css';

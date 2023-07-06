@@ -29,7 +29,7 @@ const Products = () =>{
     return(
         <div className='products'>
             {products.map(item =>(
-                <div key={item.id} className='prod'>
+                <div key={item.id} className='ducts'>
                     <img className='img' alt='' src={item.images[1]}/>
                     <Link to="/add">
   <button>Add</button>

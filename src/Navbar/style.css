@@ -1,9 +1,10 @@
 nav {
     background-color: #333;
-    color:greenyellow;
+    color:white;
     display: flex;
     justify-content: space-between;
     padding: 10px;
+    margin-right: 20%;
   }
   ul {
     display: flex;
@@ -15,7 +16,7 @@ nav {
     margin: 0 10px;
   }
   a {
-    color: chartreuse;
+    color: whitesmoke;
     text-decoration: none;
   }
   a:hover {
