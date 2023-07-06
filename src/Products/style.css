@@ -9,7 +9,7 @@
     border: 1px solid #ccc;
     border-radius: 5px;
     text-align: center;
-    background-color: pink;
+    background-color:paleturquoise;
   }
   .img{
     width: 200px;
@@ -28,5 +28,5 @@
   .btn{
     padding: 15px;
     border-radius: 12px;
-    background-color: pink;
+    background-color: blue;
   }
